@@ -14,7 +14,7 @@
 
 **demo:**:girl:
 
-[美图传送门](http://img-api.kococ.cn/img-api.php)
+[美图传送门](http://img-api.kococ.cn/)
 
 
 
